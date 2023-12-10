@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ejercicio7</string>
+    <string name="editTextNumeroDatosHint">Número de datos</string>
+    <string name="button">Ingresar Fracciones</string>
+    <string name="textViewResultado">Resultados</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="editTextNumeradorAgregar">Agregar Fracción</string>
+    <string name="editTextAgregarDenominador">Denominador</string>
+    <string name="editTextAgregarNumerador">Numerador</string>
+</resources>
